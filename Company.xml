@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Company.xsl"?>
+<Company xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Company.xsd">
+
+	<Employee>
+		<ID>2047205</ID>	
+		<Name>Alex</Name>
+		<Age>34</Age>
+		<Salary>100000</Salary>
+		<Email>alex@gmail.com</Email>
+		<MobNum>9850949464</MobNum>
+		<Designation>Dept.Ast.Manager</Designation>
+	</Employee>
+	
+	<Employee>
+		<ID>2047212</ID>
+		<Name>Theo</Name>
+		<Age>32</Age>
+		<Salary>115000</Salary>
+		<Email>Theo@gmail.com</Email>
+		<MobNum>9125715327</MobNum>
+		<Designation>Dept.Manager</Designation>
+	</Employee>
+
+	<Employee>
+		<ID>2047223</ID>
+		<Name>Oliver</Name>
+		<Age>21</Age>
+		<Salary>70000</Salary>
+		<Email>oli@gmail.com</Email>
+		<MobNum>9196675681</MobNum>
+		<Designation>CTO</Designation>
+	</Employee>
+
+	<Employee>
+		<ID>2047243</ID>
+		<Name>Van</Name>
+		<Age>29</Age>
+		<Salary>200000</Salary>
+		<Email>van@gmail.com</Email>
+		<MobNum>9166515593</MobNum>
+		<Designation>President</Designation>
+	</Employee>
+
+	<Employee>
+		<ID>2046542</ID>
+		<Name>Nicholas</Name>
+		<Age>34</Age>
+		<Salary>100000</Salary>
+		<Email>nico@gmail.com</Email>
+		<MobNum>9245238912</MobNum>
+		<Designation>Vice President</Designation>
+	</Employee>
+
+</Company>
